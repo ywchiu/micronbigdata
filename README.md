@@ -7,13 +7,13 @@
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
 
 ## Hive 範例
-- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+- https://github.com/ywchiu/micronbigdata/blob/master/Hive/hive-exercise.txt
 
 ## Sqoop 範例
-- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+- https://github.com/ywchiu/micronbigdata/blob/master/Sqoop/sqoop-exercises.txt
 
 ## Pig 範例
-- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+- https://github.com/ywchiu/micronbigdata/blob/master/Pig/pig-exercises.txt
 
 ## Flume 範例
-- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+- https://github.com/ywchiu/micronbigdata/blob/master/Flume/flume-exercises.txt
