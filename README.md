@@ -4,4 +4,4 @@
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
 
 ## MapReduce 範例
-- 
+- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
