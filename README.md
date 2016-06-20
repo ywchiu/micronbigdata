@@ -5,3 +5,15 @@
 
 ## MapReduce 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+
+## Hive 範例
+- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+
+## Sqoop 範例
+- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+
+## Pig 範例
+- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
+
+## Flume 範例
+- https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
