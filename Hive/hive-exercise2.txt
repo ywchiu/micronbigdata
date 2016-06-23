@@ -27,5 +27,12 @@ select `user`, count(`product`), 1 from costumer_order group by `user`;
 create table user_view_cnt as 
 select `user`, count(`product`) from costumer_view group by `user`;
 
+
+create table user_behavior as 
+select user_product_cnt.`user`, user_product_cnt.`_c1` as buycnt ,
+user_view_cnt.`_c1` as viewcnt  from user_product_cnt inner join
+user_view_cnt on user_product_cnt.`user` = user_view_cnt.`user`;
+
+
 //Using sqoop to export data back to mysql
-sqoop export --connect jdbc:mysql://localhost:3306/costumer --table costumer_behavior --export-dir /apps/hive/warehouse/user_product_cnt --username root -m1 --input-fields-terminated-by '\001' --driver com.mysql.jdbc.Driver
+sqoop export --connect jdbc:mysql://localhost:3306/costumer --table costumer_behavior --export-dir /apps/hive/warehouse/user_behavior --username root -m1 --input-fields-terminated-by '\001' --driver com.mysql.jdbc.Driver
