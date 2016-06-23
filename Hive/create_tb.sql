@@ -20,5 +20,5 @@ create table costumer_view(
 create table costumer_behavior(
   User VARCHAR(256), 
   BuyCount int,
-  ViewCount int,
+  ViewCount int
 );
