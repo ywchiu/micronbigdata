@@ -2,10 +2,12 @@
 wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/purchase_view.tab
 wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/purchase_order.tab
 
-//Create finance database
+//Create costumer database
 mysql -e 'create database costumer' 
 
-//Create table MajorTrade
+//Create tables
+wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/create-tb.sql
+
 mysql -uroot costumer< create-tb.sql
 
 //Import finance.csv into MajorTrade
@@ -20,16 +22,11 @@ sqoop import --connect jdbc:mysql://localhost:3306/costumer -username root --que
 hive
 
 //Making queries
-SELECT date, sum(value) as sum_val FROM MajorTrade group by date order by sum_val desc limit 1;
+SELECT * from costumer_order limit 3;
 
 //Making subqueries
-SELECT item, (sum(value) * 100 / t.total)  as percent 
-FROM MajorTrade 
-  CROSS  JOIN (
-      SELECT sum(value) AS total FROM MajorTrade
-  ) t 
-GROUP BY item, t.total;
-
+SELECT * from costumer_order inner join costumer_view
+where 
 //Create table in hive
 create table item_portion (item String, portion float);
 
