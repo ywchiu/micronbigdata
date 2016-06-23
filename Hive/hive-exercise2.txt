@@ -6,9 +6,8 @@ wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/purchase_order.tab
 mysql -e 'create database costumer' 
 
 //Create tables
-wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/create-tb.sql
-
-mysql -uroot costumer< create-tb.sql
+wget https://github.com/ywchiu/micronbigdata/raw/master/Hive/create_tb.sql
+mysql -uroot costumer< create_tb.sql
 
 //Import finance.csv into MajorTrade
 mysql costumer -e "LOAD DATA LOCAL INFILE 'purchase_order.tab' INTO TABLE costumer_order FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' (Time,Action,User,Product, Quantity,Price)"
