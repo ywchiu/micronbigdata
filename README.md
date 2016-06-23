@@ -7,7 +7,8 @@
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
 
 ## Hive 範例
-- https://github.com/ywchiu/micronbigdata/blob/master/Hive/hive-exercise.txt
+- https://github.com/ywchiu/micronbigdata/blob/master/Hive/hive-exercise1.txt
+- https://github.com/ywchiu/micronbigdata/blob/master/Hive/hive-exercise2.txt
 
 ## Sqoop 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/Sqoop/sqoop-exercises.txt
