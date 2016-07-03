@@ -18,3 +18,6 @@
 
 ## Flume 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/Flume/flume-exercises.txt
+
+## Spark 範例
+- https://github.com/ywchiu/micronbigdata/raw/master/Spark/20160704Demo.json
