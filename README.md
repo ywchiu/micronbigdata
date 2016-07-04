@@ -21,3 +21,4 @@
 
 ## Spark 範例
 - https://raw.githubusercontent.com/ywchiu/micronbigdata/master/Spark/20160704Demo.json
+- https://raw.githubusercontent.com/ywchiu/micronbigdata/master/Spark/Spark%20SQL.json
