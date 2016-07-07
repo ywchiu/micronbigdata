@@ -27,5 +27,5 @@
 - https://github.com/ywchiu/micronbigdata/blob/master/HBase/20160707%20-%20HBase%20%E7%B0%A1%E4%BB%8B%E8%88%87%E5%AF%A6%E4%BD%9C.pdf
 
 ## Recommendation System
-https://youtu.be/RoRixPm4XyQ
-https://www.youtube.com/watch?v=l0TemN7lpCs
+- https://youtu.be/RoRixPm4XyQ
+- https://www.youtube.com/watch?v=l0TemN7lpCs
