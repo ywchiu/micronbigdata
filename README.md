@@ -22,3 +22,6 @@
 ## Spark 範例
 - https://raw.githubusercontent.com/ywchiu/micronbigdata/master/Spark/20160704Demo.json
 - https://raw.githubusercontent.com/ywchiu/micronbigdata/master/Spark/Spark%20SQL.json
+
+## HBase 投影片與範例
+- https://github.com/ywchiu/micronbigdata/blob/master/HBase/20160707%20-%20HBase%20%E7%B0%A1%E4%BB%8B%E8%88%87%E5%AF%A6%E4%BD%9C.pdf
