@@ -13,6 +13,6 @@ Values
 ('Koram'    ,'Peanut Butter'),
 ('Koram'    ,'Milk'         );
 
-add FILE /root/function.py'
+add FILE /root/function.py
 
 SELECT TRANSFORM(firstname,lastname) USING 'python function.py' from employee; 
