@@ -9,8 +9,8 @@ def SaveRecord(rdd):
     connection.open()
     table = connection.table('mytable')
     datamap = rdd.collect()
-    for k, v in datamap:
-        table.put(str(uuid.uuid4()), {'cf1:col1': v2})
+    for v in datamap:
+        table.put(str(uuid.uuid4()), {'cf1:col1': v})
     connection.close()
 
 sc = SparkContext(appName="qoo")
