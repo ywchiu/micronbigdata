@@ -1,5 +1,11 @@
 # Big Data Analytics - Analyze with Hadoop & Spark
 
+## 環境
+- http://35.221.129.107:8080/#/login
+- 帳號：admin
+- 密碼：micron
+
+
 ## 投影片
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
 
