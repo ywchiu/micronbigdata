@@ -5,6 +5,8 @@
 - 帳號：admin
 - 密碼：micron
 
+## Name Node 管理介面
+- http://35.221.129.107:50070
 
 ## 投影片
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
