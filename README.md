@@ -9,6 +9,7 @@
 - http://35.221.129.107:50070
 
 ## Hive Advanced 
+- https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/CreateManagedTable.sql
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/Partitioning.sql
 
 ## 投影片
