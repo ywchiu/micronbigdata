@@ -14,6 +14,10 @@
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/Bucketing.sql
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/windowing.sql
 
+## Custom Python 
+- https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/function.py
+- https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/RunningCustomPythonscript.sql
+
 ## 投影片
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
 
