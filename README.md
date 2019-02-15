@@ -12,6 +12,7 @@
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/CreateManagedTable.sql
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/Partitioning.sql
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/Bucketing.sql
+- https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/windowing.sql
 
 ## 投影片
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
