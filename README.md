@@ -21,6 +21,9 @@
 ## 投影片
 - https://www.slideshare.net/secret/hAQy6APouvIQrZ
 
+## Docker on Cloud
+- https://hortonworks.com/downloads/#sandbox
+
 ## MapReduce 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
 
