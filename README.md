@@ -27,6 +27,10 @@
 ## Zeppelin Notebook
 - http://micron.largitdata.com:8080/#/
 
+## Zepl
+- https://www.zepl.com/explore
+- https://raw.githubusercontent.com/ywchiu/micronbigdata/master/Spark/Demo20190119.json
+
 ## MapReduce 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
 
