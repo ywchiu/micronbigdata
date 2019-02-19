@@ -24,6 +24,9 @@
 ## Docker on Cloud
 - https://hortonworks.com/downloads/#sandbox
 
+## Zeppelin Notebook
+- http://micron.largitdata.com:8080/#/
+
 ## MapReduce 範例
 - https://github.com/ywchiu/micronbigdata/blob/master/MapReduce.md
 
