@@ -1,12 +1,12 @@
 # Big Data Analytics - Analyze with Hadoop & Spark
 
 ## 環境
-- http://35.221.129.107:8080/#/login
+- http://micron.largitdata.com:8080/#/login
 - 帳號：admin
-- 密碼：micron
+- 密碼：admin
 
 ## Name Node 管理介面
-- http://35.221.129.107:50070
+- http://micron.largitdata.com:50070
 
 ## Hive Advanced 
 - https://github.com/ywchiu/micronbigdata2/blob/master/HiveAdvanced/CreateManagedTable.sql
